@@ -1,6 +1,5 @@
 # mgjava8
 
-<p>
 ## create a new repository on the command line
 - git add README.md
 - git init
